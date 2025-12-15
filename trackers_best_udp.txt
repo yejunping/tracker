@@ -497,6 +497,7 @@ udp://79.117.133.1:1234/announce
 udp://79.117.28.48:1234/announce
 udp://79.117.5.107:1234/announce
 udp://79.117.63.250:1234/announce
+udp://80.71.224.126:6969/announce
 udp://82.156.24.219:6969/announce
 udp://82.65.115.10:6969/announce
 udp://82.67.44.197:9999/announce
@@ -719,7 +720,6 @@ udp://jvavav.com:6969/announce
 udp://kiryuu-test.mywaifu.best:6969/announce
 udp://kokodayo.site:6969/announce
 udp://kristof.bartanet.cz:6969/announce
-udp://laestrygonian.ooguy.com:9001/announce
 udp://laze.cc:6969/announce
 udp://leet-tracker.moe:1337/announce
 udp://leet-tracker.moe:23861/announce
@@ -776,7 +776,6 @@ udp://parag.rs:6969/announce
 udp://passpulse.net:8000/announce
 udp://peerfect.org:6969/announce
 udp://pirate.t-1.org:1337/announce
-udp://play.aimisayo.com:6969/announce
 udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
