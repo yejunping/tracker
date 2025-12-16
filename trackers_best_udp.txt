@@ -406,6 +406,7 @@ udp://43.154.112.29:17272/announce
 udp://44.30.4.3:6969/announce
 udp://44.30.4.4:6969/announce
 udp://45.13.119.213:6969/announce
+udp://45.134.88.121:6969/announce
 udp://45.154.214.21:6969/announce
 udp://45.154.96.35:6969/announce
 udp://45.155.53.144:6969/announce
@@ -748,6 +749,7 @@ udp://mts.tvbit.co:6969/announce
 udp://nagios.tks.sumy.ua:80/announce
 udp://netmap.top:6969/announce
 udp://new-line.net:6969/announce
+udp://node01.trackerstatus.live:42069/announce
 udp://npge.nprotect.com:6969/announce
 udp://ns-1.x-fins.com:6969/announce
 udp://ns3109441.mypdns.org:6969/announce
