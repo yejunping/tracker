@@ -178,6 +178,7 @@ http://177.112.215.4:6969/announce
 http://177.112.215.99:6969/announce
 http://177.139.44.145:6969/announce
 http://177.139.44.78:6969/announce
+http://177.139.47.105:6969/announce
 http://177.139.47.236:6969/announce
 http://177.139.47.40:6969/announce
 http://177.144.178.170:6969/announce
@@ -1743,6 +1744,7 @@ udp://177.112.215.131:6969/announce
 udp://177.112.215.4:6969/announce
 udp://177.112.215.99:6969/announce
 udp://177.139.44.145:6969/announce
+udp://177.139.47.105:6969/announce
 udp://177.139.47.236:6969/announce
 udp://177.139.47.40:6969/announce
 udp://177.144.178.170:6969/announce
@@ -1863,6 +1865,7 @@ udp://191.255.155.74:6969/announce
 udp://191.255.193.16:6969/announce
 udp://191.255.193.44:6969/announce
 udp://192.95.46.115:6969/announce
+udp://193.148.251.93:6969/announce
 udp://193.177.162.187:6969/announce
 udp://193.233.161.213:6969/announce
 udp://193.37.214.12:6969/announce
@@ -2666,6 +2669,7 @@ udp://tracker.bitcoinindia.space:6969/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.bittor.pw:1337/announce
 udp://tracker.blacksparrowmedia.net:6969/announce
+udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.bontal.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.btsync.gq:233/announce
