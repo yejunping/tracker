@@ -255,6 +255,7 @@ udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
+udp://200.148.11.61:6969/announce
 udp://200.161.254.131:6969/announce
 udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
@@ -733,7 +734,6 @@ udp://ipv6.tracker.zerobytes.xyz:16661/announce
 udp://isk.richardsw.club:6969/announce
 udp://ismaarino.com:1234/announce
 udp://jeremylee.sh:6969/announce
-udp://joczo.duckdns.org:6969/announce
 udp://johnrosen1.com:6969/announce
 udp://jutone.com:6969/announce
 udp://jvavav.com:6969/announce
@@ -807,7 +807,6 @@ udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
-udp://r.l5.ca:6969/announce
 udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
@@ -962,7 +961,6 @@ udp://tracker.sigterm.xyz:6969/announce
 udp://tracker.silksa.co.za:6969/announce
 udp://tracker.skillindia.site:6969/announce
 udp://tracker.sktorrent.net:6969/announce
-udp://tracker.skynetcloud.site:6969/announce
 udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://tracker.startwork.cv:1337/announce
