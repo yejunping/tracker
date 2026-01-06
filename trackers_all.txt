@@ -264,6 +264,7 @@ http://187.56.205.91:6969/announce
 http://187.57.130.109:6969/announce
 http://187.57.130.147:6969/announce
 http://187.57.131.202:6969/announce
+http://187.57.132.20:6969/announce
 http://187.57.132.246:6969/announce
 http://187.57.14.62:6969/announce
 http://187.57.229.141:6969/announce
@@ -1835,6 +1836,7 @@ udp://187.56.205.91:6969/announce
 udp://187.57.130.109:6969/announce
 udp://187.57.130.147:6969/announce
 udp://187.57.131.202:6969/announce
+udp://187.57.132.20:6969/announce
 udp://187.57.132.246:6969/announce
 udp://187.57.229.141:6969/announce
 udp://188.165.253.109:1337/announce
@@ -2747,6 +2749,7 @@ udp://tracker.ilibr.org:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.iperson.xyz:6969/announce
 udp://tracker.istole.it:80/announce
+udp://tracker.ixuexi.click:6969/announce
 udp://tracker.jamesthebard.net:6969/announce
 udp://tracker.jonaslsa.com:6969/announce
 udp://tracker.jordan.im:6969/announce
