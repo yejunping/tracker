@@ -74,6 +74,7 @@ udp://143.198.64.177:6969/announce
 udp://144.126.245.19:6969/announce
 udp://144.91.88.22:6969/announce
 udp://145.223.96.109:8000/announce
+udp://147.45.77.75:6969/announce
 udp://147job.com:6969/announce
 udp://148.113.168.115:6969/announce
 udp://148.251.53.72:6969/announce
@@ -817,6 +818,7 @@ udp://pow7.com:80/announce
 udp://private.anonseed.com:6969/announce
 udp://psyco.fr:6969/announce
 udp://public.demonoid.ch:6969/announce
+udp://public.popcorn-tracker.org:6969/announce
 udp://public.tracker.vraphim.com:6969/announce
 udp://pxnet.ru:6969/announce
 udp://qg.lorzl.gq:2710/announce
@@ -887,7 +889,6 @@ udp://tracker.1337x.org:80/announce
 udp://tracker.1h.is:1337/announce
 udp://tracker.4.babico.name.tr:3131/announce
 udp://tracker.aletorrenty.pl:2710/announce
-udp://tracker.altrosky.nl:6969/announce
 udp://tracker.army:6969/announce
 udp://tracker.auctor.tv:6969/announce
 udp://tracker.babico.name.tr:8000/announce
