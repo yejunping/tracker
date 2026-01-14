@@ -129,6 +129,7 @@ http://148.252.75.241:6969/announce
 http://15.204.57.168:6969/announce
 http://151.115.49.115:1337/announce
 http://152.231.114.120:1337/announce
+http://152.231.114.51:1337/announce
 http://152.231.114.55:1337/announce
 http://152.243.213.163:6969/announce
 http://152.249.214.198:6969/announce
@@ -2154,6 +2155,7 @@ udp://64.23.195.62:6969/announce
 udp://65.108.102.76:6969/announce
 udp://68.193.189.231:6969/announce
 udp://69.30.224.166:6969/announce
+udp://69.30.233.234:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://6rt.tace.ru:80/announce
 udp://74.82.52.209:6969/announce
