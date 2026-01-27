@@ -278,6 +278,7 @@ udp://200.148.11.61:6969/announce
 udp://200.161.254.131:6969/announce
 udp://200.161.254.194:6969/announce
 udp://200.161.254.20:6969/announce
+udp://200.168.116.107:6969/announce
 udp://200.168.116.200:6969/announce
 udp://200.168.117.55:6969/announce
 udp://200.170.109.125:6969/announce
@@ -681,8 +682,6 @@ udp://bt.bontal.net:443/announce
 udp://bt.bontal.net:6969/announce
 udp://bt.ktrackers.com:6666/announce
 udp://bt.okmp3.ru:2710/announce
-udp://bt.rer.lol:2710/announce
-udp://bt.rer.lol:6969/announce
 udp://bt.sc-ol.com:2710/announce
 udp://bt1.archive.org:6969/announce
 udp://bt1.xxxxbt.cc:6969/announce
@@ -919,6 +918,7 @@ udp://tracker.cubonegro.lol:6969/announce
 udp://tracker.cubonegro.xyz:6969/announce
 udp://tracker.cuntflaps.me:6969/announce
 udp://tracker.cyberia.is:6969/announce
+udp://tracker.cypherpunks.ru:6969/announce
 udp://tracker.darkness.services:6969/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tracker.deadorbit.nl:6969/announce
