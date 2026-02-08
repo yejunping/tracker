@@ -2,11 +2,11 @@ http://117.72.34.150:6969/announce
 http://125.227.79.123/announce
 http://193.31.26.113:6969/announce
 http://216.144.239.90:6969/announce
-http://93.88.129.16/announce
 http://bt.nnm-club.info:2710/announce
 http://bt.okmp3.ru:2710/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
+http://concen.org:6969/announce
 http://extracker.dahrkael.net:6969/announce
 http://grifon.info/announce
 http://h4.trakx.nibba.trade/announce
@@ -15,10 +15,9 @@ http://irrenhaus.dyndns.dk/announce
 http://kinorun.com/announce
 http://mediaclub.tv/announce
 http://nagios.tks.sumy.ua/announce
-http://open.acgtracker.com:1096/announce
 http://open.stealth.si/announce
-http://peersteers.org/announce
 http://retracker.gorcomnet.ru/announce
+http://retracker.joxnet.ru/announce
 http://retracker.x2k.ru/announce
 http://retracker.xxtor.com/announce
 http://siambit.com/announce
@@ -32,6 +31,7 @@ http://tracker-udp.anirena.com/announce
 http://tracker.bittorrent.am/announce
 http://tracker.bt-chat.com/announce
 http://tracker.bt4g.com:2095/announce
+http://tracker.dm258.cn:7070/announce
 http://tracker.fansub.id/announce
 http://tracker.kmzs123.com/announce
 http://tracker.minglong.org:8080/announce
@@ -42,6 +42,7 @@ http://tracker.trancetraffic.com/announce
 http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
+http://tracker.xfapi.top:9999/announce
 http://tracker.xn--djrq4gl4hvoi.top/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.top/announce
@@ -54,7 +55,6 @@ http://uatracker.net/announce
 http://www.ansktracker.net/announce
 http://www.wareztorrent.com/announce
 http://www.yqzuji.com/announce
-https://1337.abcvg.info/announce
 https://retracker.x2k.ru/announce
 https://retracker2.x2k.ru/announce
 https://sparkle.ghostchu-services.top/announce
@@ -65,6 +65,7 @@ https://tr.qfruiti.com/announce
 https://tr2.trkb.ru/announce
 https://tracker.bt4g.com/announce
 https://tracker.iochimari.moe/announce
+https://tracker.jiesen.life:8443/announce
 https://tracker.keepfrds.com/announce
 https://tracker.madtia.cc/announce
 https://tracker.renfei.net/announce
@@ -306,6 +307,7 @@ udp://189.18.96.56:6969/announce
 udp://189.18.96.9:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
+udp://189.18.97.57:6969/announce
 udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
@@ -355,6 +357,7 @@ udp://195.123.209.40:80/announce
 udp://195.234.62.166:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
@@ -934,6 +937,7 @@ udp://region.nl1.privex.cc:6969/announce
 udp://rekcart.duckdns.org:15480/announce
 udp://rep-art.ynh.fr:6969/announce
 udp://retracker.akado-ural.ru:80/announce
+udp://retracker.baikal-telecom.net:2710/announce
 udp://retracker.lanta.me:2710/announce
 udp://retracker.nts.su:2710/announce
 udp://retracker.sevstar.net:2710/announce

@@ -304,6 +304,7 @@ http://189.18.96.56:6969/announce
 http://189.18.96.9:6969/announce
 http://189.18.97.116:6969/announce
 http://189.18.97.201:6969/announce
+http://189.18.97.57:6969/announce
 http://189.69.167.105:6969/announce
 http://189.69.167.130:6969/announce
 http://189.69.168.180:6969/announce
@@ -1909,6 +1910,7 @@ udp://189.18.96.56:6969/announce
 udp://189.18.96.9:6969/announce
 udp://189.18.97.116:6969/announce
 udp://189.18.97.201:6969/announce
+udp://189.18.97.57:6969/announce
 udp://189.69.167.105:6969/announce
 udp://189.69.167.130:6969/announce
 udp://189.69.168.180:6969/announce
@@ -1958,6 +1960,7 @@ udp://195.123.209.40:80/announce
 udp://195.234.62.166:6969/announce
 udp://198.100.149.66:6969/announce
 udp://1c.premierzal.ru:6969/announce
+udp://200.111.152.53:1337/announce
 udp://200.111.152.54:1337/announce
 udp://200.148.11.147:6969/announce
 udp://200.148.11.156:6969/announce
