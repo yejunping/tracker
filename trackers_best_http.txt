@@ -1,6 +1,7 @@
 http://123.245.62.39:6969/announce
 http://138.124.183.78:6969/announce
 http://140.235.237.23:6969/announce
+http://167.253.78.20:8080/announce
 http://187.57.131.78:6969/announce
 http://193.31.26.113:6969/announce
 http://207.211.184.229:6969/announce
@@ -66,6 +67,7 @@ http://exodus.desync.com/announce
 http://extracker.dahrkael.net:6969/announce
 http://ftp.pet:2710/announce
 http://ipv4.rer.lol:2710/announce
+http://ipv4announce.sktorrent.eu:6969/announce
 http://lucke.fenesisu.moe:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.acgtracker.com:1096/announce
@@ -74,9 +76,7 @@ http://open.touki.ru/announce
 http://opentracker.acgnx.se/announce
 http://opentrackr.org:1337/announce
 http://pow7.com/announce
-http://retracker.x2k.ru/announce
 http://s1130639.ha009.t.mydomain.zone/announce
-http://s1130642.ha014.t.mydomain.zone/announce
 http://secure.pow7.com/announce
 http://sukebei.tracker.wf:8888/announce
 http://t-backup.213891.xyz/announce
@@ -89,12 +89,11 @@ http://tk.trojangogogo.site:8989/announce
 http://torrent.arjlover.net:2710/announce
 http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
-http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
 http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
-http://tracker-zhuqiy.dgj055.icu/announce
+http://tracker.004430.xyz:1337/announce
 http://tracker.23794.top:6969/announce
 http://tracker.acgnx.se/announce
 http://tracker.anonwebz.xyz:8080/announce
@@ -124,6 +123,7 @@ http://tracker.pow7.com/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
 http://tracker.renfei.net:8080/announce
+http://tracker.skyts.net:6969/announce
 http://tracker.swifte.space:2710/announce
 http://tracker.trancetraffic.com/announce
 http://tracker.tritan.gg:8080/announce
