@@ -1,6 +1,8 @@
 https://004430.xyz/announce
+https://1337.abcvg.info/announce
 https://337hhh.xyz/announce
 https://bt.beatrice-raws.org/announce
+https://colibri.parrot.run/announce
 https://http1.torrust-tracker-demo.com/announce
 https://open.ftorrent.com/announce
 https://pybittrack.retiolus.net/announce
