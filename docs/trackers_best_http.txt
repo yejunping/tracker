@@ -1,7 +1,6 @@
 http://004430.xyz/announce
-http://113.16.155.243:6969/announce
-http://1337.abcvg.info/announce
 http://140.235.237.23:6969/announce
+http://167.253.78.20:8080/announce
 http://172.245.168.134/announce
 http://185.171.202.111:6969/announce
 http://189.18.162.12:6969/announce
@@ -23,7 +22,6 @@ http://60.249.37.20:6969/announce
 http://79.111.12.213:6969/announce
 http://85.121.5.80:6969/announce
 http://92.112.126.44:6969/announce
-http://93.158.213.92:1337/announce
 http://94.72.140.51:6969/announce
 http://95.217.167.10:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
@@ -39,7 +37,6 @@ http://bt.edwardk.info:676/announce
 http://bt.edwardk.info:6767/announce
 http://bt.edwardk.info:6969/announce
 http://bt.nnm-club.info:2710/announce
-http://bt.okmp3.ru:2710/announce
 http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
@@ -73,6 +70,7 @@ http://torrent.fedoraproject.org:6969/announce
 http://torrent.ubuntu.com:6969/announce
 http://torrent.unix-ag.uni-kl.de/announce
 http://tr.highstar.shop/announce
+http://tr.kxmp.cf/announce
 http://tr.nyacat.pw/announce
 http://tracker-udp.anirena.com/announce
 http://tracker.004430.xyz:1337/announce
@@ -88,6 +86,7 @@ http://tracker.dhitechnical.com:6969/announce
 http://tracker.dler.com:6969/announce
 http://tracker.dler.org:6969/announce
 http://tracker.dm258.cn:7070/announce
+http://tracker.etree.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
