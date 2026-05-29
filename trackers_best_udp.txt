@@ -4,11 +4,11 @@ udp://109.201.134.183:80/announce
 udp://118.196.100.63:6969/announce
 udp://120.78.150.131:6969/announce
 udp://132.226.6.145:6969/announce
-udp://132.243.174.78:6969/announce
 udp://135.125.236.64:6969/announce
 udp://147.45.77.75:6969/announce
 udp://149.106.106.25:443/announce
 udp://151.242.30.86:42069/announce
+udp://154.40.43.165:6969/announce
 udp://163.5.63.253:6990/announce
 udp://164.152.110.70:6969/announce
 udp://172.245.168.134:1337/announce
@@ -74,8 +74,10 @@ udp://93.158.213.92:6969/announce
 udp://94.136.190.183:1337/announce
 udp://94.136.190.183:6969/announce
 udp://94.23.207.177:6969/announce
+udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://archive.torrentonline.cc:42069/announce
+udp://atrack.pow7.com:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bt.okmp3.ru:2710/announce
 udp://bttracker.debian.org:6969/announce
@@ -84,7 +86,6 @@ udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://evan.im:6969/announce
-udp://exodus.desync.com:6969/announce
 udp://explodie.org:6969/announce
 udp://ipv4announce.sktorrent.eu:6969/announce
 udp://leet-tracker.moe:1337/announce
@@ -108,7 +109,6 @@ udp://seedpeer.net:6969/announce
 udp://su-data.com:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
-udp://t2.pow7.com:6969/announce
 udp://torrentclub.online:54123/announce
 udp://torrentclub.space:6969/announce
 udp://torrents.artixlinux.org:6969/announce
@@ -166,7 +166,7 @@ udp://uabits.today:6990/announce
 udp://udp.tracker.projectk.org:23333/announce
 udp://v2.iperson.xyz:6969/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
-udp://vito-tracker.duckdns.org:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
+udp://www.torrent.eu.org:451/announce
 udp://yuptracker-eu.gaijinent.com:27022/announce
 udp://zer0day.ch:1337/announce
