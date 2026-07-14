@@ -4,6 +4,7 @@ http://140.235.237.23:6969/announce
 http://152.53.194.103:2710/announce
 http://172.245.168.134/announce
 http://185.171.202.111:6969/announce
+http://200.111.84.93:1337/announce
 http://207.241.226.111:6969/announce
 http://207.241.231.226:6969/announce
 http://211.75.205.187/announce
@@ -57,6 +58,7 @@ http://ns3109441.mypdns.org:6969/announce
 http://nyaa.tracker.wf:7777/announce
 http://open.tracker.cl:1337/announce
 http://opentracker.acgnx.se/announce
+http://opentracker.xyz/announce
 http://opentrackr.org:1337/announce
 http://retracker.x2k.ru/announce
 http://retracker01-msk-virt.corbina.net/announce
@@ -84,6 +86,7 @@ http://tracker.dler.org:6969/announce
 http://tracker.fansub.id/announce
 http://tracker.gcvchp.com:2710/announce
 http://tracker.gigatorrents.ws:2710/announce
+http://tracker.internetwarriors.net:1337/announce
 http://tracker.kali.org:6969/announce
 http://tracker.merded.xyz:8000/announce
 http://tracker.minglong.org:8080/announce
