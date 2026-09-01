@@ -29,6 +29,7 @@ http://93.158.213.92:1337/announce
 http://94.23.207.177:6969/announce
 http://aboutbeautifulgallopinghorsesinthegreenpasture.online/announce
 http://announce.sktorrent.eu:6969/announce
+http://asiatorrent.giize.com:51413/announce
 http://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 http://bittorrent.kali.org/announce
 http://bt.beatrice-raws.org/announce
@@ -44,6 +45,7 @@ http://bt.zlofenix.org:81/announce
 http://bt02.nnm-club.cc:2710/announce
 http://bt02.nnm-club.info:2710/announce
 http://bt1.archive.org:6969/announce
+http://bt1.xxxxbt.cc:6969/announce
 http://bt2.archive.org:6969/announce
 http://bt2.edwardk.info:2710/announce
 http://bt2.edwardk.info:4040/announce
@@ -112,6 +114,7 @@ http://tracker.waaa.moe:6969/announce
 http://tracker.xfapi.top:6868/announce
 http://tracker.xfapi.top:7070/announce
 http://tracker.xfapi.top:9999/announce
+http://tracker.xiaoduola.xyz:6969/announce
 http://tracker.zhuqiy.com/announce
 http://tracker.zhuqiy.dgj055.icu/announce
 http://tracker1.itzmx.com:8080/announce
