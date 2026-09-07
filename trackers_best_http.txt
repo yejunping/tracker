@@ -1,9 +1,7 @@
 http://004430.xyz/announce
-http://1337.abcvg.info/announce
 http://135.125.198.235/announce
 http://135.125.198.235:2710/announce
 http://140.235.237.23:6969/announce
-http://152.243.213.247:6969/announce
 http://152.53.194.103:2710/announce
 http://172.245.168.134/announce
 http://185.126.65.92:6969/announce
@@ -102,6 +100,7 @@ http://tracker.nexusstream.eu:6969/announce
 http://tracker.novaopcj.eu.org:6969/announce
 http://tracker.opentrackr.org:1337/announce
 http://tracker.openzim.org/announce
+http://tracker.plx.im:6969/announce
 http://tracker.privateseedbox.xyz:2710/announce
 http://tracker.pussytorrents.org:3000/announce
 http://tracker.qu.ax:6969/announce
