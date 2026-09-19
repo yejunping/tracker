@@ -3,7 +3,6 @@ udp://118.196.100.63:6969/announce
 udp://120.78.150.131:6969/announce
 udp://132.226.6.145:6969/announce
 udp://135.125.198.235:1984/announce
-udp://135.125.236.64:6969/announce
 udp://149.106.106.25:443/announce
 udp://15.235.207.99:8081/announce
 udp://151.242.104.187:80/announce
@@ -15,13 +14,13 @@ udp://178.239.19.29:80/announce
 udp://180.131.145.175:6969/announce
 udp://185.121.168.96:1337/announce
 udp://185.121.168.96:6969/announce
+udp://185.189.13.39:6969/announce
 udp://185.216.179.62:25/announce
 udp://192.99.100.68:6969/announce
 udp://193.148.251.93:6969/announce
 udp://193.187.90.12:6969/announce
 udp://193.34.92.5:80/announce
 udp://200.168.117.238:6969/announce
-udp://209.141.59.16:6969/announce
 udp://209.141.59.25:6969/announce
 udp://211.75.205.187:6969/announce
 udp://211.75.205.187:80/announce
@@ -33,6 +32,8 @@ udp://211.75.210.221:6969/announce
 udp://211.75.210.221:80/announce
 udp://212.42.38.197:6969/announce
 udp://221.153.216.56:8081/announce
+udp://23.134.88.9:1337/announce
+udp://23.134.88.9:6969/announce
 udp://23.153.248.128:6969/announce
 udp://23.154.104.2:23333/announce
 udp://23.157.120.14:6969/announce
@@ -76,6 +77,7 @@ udp://95.217.80.22:6969/announce
 udp://admin.52ywp.com:6969/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 udp://atrack.pow7.com:6969/announce
+udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://bttracker.debian.org:6969/announce
 udp://ch3oh.ru:6969/announce
 udp://chihaya.toss.li:9696/announce
@@ -107,7 +109,6 @@ udp://secure.pow7.com:6969/announce
 udp://seedpeer.net:6969/announce
 udp://t.overflow.biz:6969/announce
 udp://t1.pow7.com:6969/announce
-udp://t2.pow7.com:6969/announce
 udp://torrent.tracker.durukanbal.com:6969/announce
 udp://torrents.artixlinux.org:6969/announce
 udp://tr3.ysagin.top:2715/announce
@@ -130,6 +131,7 @@ udp://tracker.ducks.party:1984/announce
 udp://tracker.farted.net:6969/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.fatkhoala.org:13790/announce
+udp://tracker.filemail.com:6969/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.govt.hu:6969/announce
 udp://tracker.ilibr.org:6969/announce
